@@ -1,6 +1,6 @@
-# RAG Chatbot: Legal & Technical AI Assistant
+# RAG Chatbot: Multi-Modal AI Assistant
 
-A professional Retrieval-Augmented Generation (RAG) system specialized for **Legal Contracts** and **Technical Manuals**. This project features a **Parent-Child Indexing Architecture** for superior context retrieval and integrates **Groq** for high-speed inference. 
+A professional Retrieval-Augmented Generation (RAG) system specialized for **Legal Contracts**, **Technical Manuals** and **Financial Documents**. This project features a **Parent-Child Indexing Architecture** for superior context retrieval and integrates **Groq** for high-speed inference. 
 We have made use of both Ollama and Groq in order to achieve the best possible results and benchmark results.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
